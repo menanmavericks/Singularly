@@ -4,7 +4,7 @@ public class Rockettt {
 
 	public static void main(String[] a) {
 		// TODO Auto-generated method stub
-		System.out.println("Falcon Heavy with massive payloads");
+		System.out.println("Falcon Heavy with massive payload");
 	
 
 	}
